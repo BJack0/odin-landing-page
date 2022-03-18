@@ -24,12 +24,18 @@ body {
 
 .header-banner {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 8px;
 }
 
 .header-links {
     display: flex;
     align-items: center;
+    gap: 16px;
+}
+
+.below-header-content {
+    display: flex;
+    justify-content: center;
     gap: 16px;
 }
