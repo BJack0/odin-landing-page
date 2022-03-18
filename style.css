@@ -4,9 +4,32 @@ img {
     height: 300px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
 body {
     display: flex;
     flex-flow: column nowrap;
     /* flex: 1; 
     Might be needed to have page grow and scale correctly - Revisit) */
+}
+
+.header-banner {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    gap: 16px;
 }
