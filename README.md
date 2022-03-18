@@ -14,9 +14,9 @@ Objectives
     - Use external CSS.
     - Review odin-recipes README.md to ensure landing page HTML is as good or better than previously written HTML.
 
-    - Ensure all commit messages are concise and correctly formatted
-        - Subject lines are 50 characters or less.
-        - Use imperative mood when writing commits eg. Fix HTML boilerplate (Not "Fixed HTML boilerplate").
+- Ensure all commit messages are concise and correctly formatted
+    - Subject lines are 50 characters or less.
+    - Use imperative mood when writing commits eg. Fix HTML boilerplate (Not "Fixed HTML boilerplate").
 
 Conclusion
 
