@@ -21,11 +21,14 @@ ul {
 }
 
 body {
-    background-color: #1f2937;
     display: flex;
     flex-flow: column nowrap;
     /* flex: 1; 
     Might be needed to have page grow and scale correctly - Revisit) */
+}
+
+.hero {
+    background-color: #1f2937;
 }
 
 .header-banner {
@@ -77,4 +80,5 @@ body {
 .footer {
     display: flex;
     justify-content: center;
+    background-color: #1f2937;
 }
