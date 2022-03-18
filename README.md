@@ -25,6 +25,10 @@ TBD
 
 Credits
 
-Images provided by unsplash
+Images provided Frankie Cordoba via unsplash
+https://unsplash.com/@byfoul
 
-placeholder image - https://unsplash.com/@byfoul
+Artist social links
+
+https://twitter.com/foulsterr
+https://www.instagram.com/ByFoul/
