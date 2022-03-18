@@ -29,6 +29,7 @@ body {
 
 .hero {
     background-color: #1f2937;
+    /* Added colour early to break the page up visually*/
 }
 
 .header-banner {
@@ -81,4 +82,5 @@ body {
     display: flex;
     justify-content: center;
     background-color: #1f2937;
+    /* Added colour early to break the page up visually*/
 }
