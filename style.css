@@ -39,3 +39,19 @@ body {
     justify-content: center;
     gap: 16px;
 }
+
+.showcase {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.showcase-title {
+    display: flex;
+    justify-content: center;
+}
+
+.showcase-card-container {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
