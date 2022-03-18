@@ -4,6 +4,11 @@ img {
     height: 300px;
 }
 
+img.showcase-card {
+    width: 200px;
+    height: 200px;
+}
+
 a {
     text-decoration: none;
     color: black;
@@ -16,6 +21,7 @@ ul {
 }
 
 body {
+    background-color: #1f2937;
     display: flex;
     flex-flow: column nowrap;
     /* flex: 1; 
