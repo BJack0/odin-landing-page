@@ -21,3 +21,10 @@ Objectives
 Conclusion
 
 TBD
+
+
+Credits
+
+Images provided by unsplash
+
+Main header image - https://unsplash.com/@byfoul
