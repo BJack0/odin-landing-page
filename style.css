@@ -48,18 +48,34 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
+    margin: 64px;
 }
 
 .below-header-text {
     width: 400px;
     display: flex;
     flex-flow: column nowrap;
-    align-items: center;
+    align-items: flex-start;
+}
+
+div.below-header-text > h2 {
+    margin: 0;
+    padding: 15px;
+}
+
+div.below-header-text > p {
+    height: 50px;
+    width: 350px;
+    margin: 0;
+    padding: 15px;
 }
 
 button.sign-up {
     display: flex;
     align-self: flex-start;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 15px;
 }
 
 .below-header-image {
