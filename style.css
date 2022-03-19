@@ -54,6 +54,12 @@ div.header-banner > ul > li > a {
     color: #E5E7EB
 }
 
+div.below-header-text > h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
 .below-header-content {
     display: flex;
     justify-content: center;
