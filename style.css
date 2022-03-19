@@ -48,6 +48,11 @@ div.header-banner > h1 {
     align-items: center;
     gap: 16px;
 }
+ /*Header links*/
+div.header-banner > ul > li > a {
+    font-size: 18px;
+    color: #E5E7EB
+}
 
 .below-header-content {
     display: flex;
