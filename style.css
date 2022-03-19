@@ -50,6 +50,22 @@ body {
     gap: 16px;
 }
 
+.below-header-text {
+    width: 400px;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+button.sign-up {
+    display: flex;
+    align-self: flex-start;
+}
+
+.below-header-image {
+    height: 200px;
+    width: 400px;
+}
 .showcase {
     display: flex;
     flex-flow: column nowrap;
