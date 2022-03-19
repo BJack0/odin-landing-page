@@ -38,6 +38,11 @@ body {
     padding: 8px;
 }
 
+div.header-banner > h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
 .header-links {
     display: flex;
     align-items: center;
