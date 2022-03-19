@@ -56,31 +56,29 @@ div.header-banner > ul > li > a {
 
 .below-header-content {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     gap: 16px;
-    margin: 64px;
+    padding: 64px;
 }
 
 .below-header-text {
     width: 400px;
+    height: 200px;
     display: flex;
     flex-flow: column nowrap;
-    align-items: flex-start;
 }
 
 div.below-header-text > h2 {
     margin: 0;
-    padding: 15px;
+    padding: 0;
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
 }
 
 div.below-header-text > p {
-    height: 50px;
-    width: 350px;
     margin: 0;
-    padding: 15px;
+    padding: 0;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -88,15 +86,27 @@ div.below-header-text > p {
 button.sign-up {
     display: flex;
     align-self: flex-start;
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
 }
 
 .below-header-image {
+    display: flex;
+    align-items: center;
     height: 200px;
     width: 400px;
 }
+
+div.below-header-image > img {
+    height: 100%;
+    width: 100%;
+}
+
 .showcase {
     display: flex;
     flex-flow: column nowrap;
