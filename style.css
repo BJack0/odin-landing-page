@@ -51,13 +51,24 @@ div.header-banner > h1 {
  /*Header links*/
 div.header-banner > ul > li > a {
     font-size: 18px;
-    color: #E5E7EB
+    color: #E5E7EB;
 }
 
 div.below-header-text > h2 {
+    margin: 0;
+    padding: 15px;
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+}
+
+div.below-header-text > p {
+    height: 50px;
+    width: 350px;
+    margin: 0;
+    padding: 15px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .below-header-content {
@@ -72,18 +83,6 @@ div.below-header-text > h2 {
     display: flex;
     flex-flow: column nowrap;
     align-items: flex-start;
-}
-
-div.below-header-text > h2 {
-    margin: 0;
-    padding: 15px;
-}
-
-div.below-header-text > p {
-    height: 50px;
-    width: 350px;
-    margin: 0;
-    padding: 15px;
 }
 
 button.sign-up {
