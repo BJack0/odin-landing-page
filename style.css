@@ -183,12 +183,35 @@ div.showcase-card-container > div > p {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 150px;
+    gap: 400px;
+}
+
+div.signup-container > div > div > div > p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bolder;
+    color: #E5E7EB;
+    margin: 0;
+    margin-top: 25px;
+}
+
+div.signup-container > div > div > div > p:nth-child(2) {
+    color: #E5E7EB;
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+div.signup-container > div > div > button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
 }
 
 .footer {
     display: flex;
     justify-content: center;
+    color: white;
     background-color: #1f2937;
     /* Added colour early to break the page up visually*/
 }
