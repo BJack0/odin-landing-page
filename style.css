@@ -125,7 +125,7 @@ div.showcase-title > h3 {
 .showcase-card-container {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 64px;
     margin-bottom: 120px;
 }
 
@@ -137,6 +137,7 @@ div.showcase-card-container > div > img {
 div.showcase-card-container > div > p {
     font-size: 18px;
     text-align: center;
+    width: 200px;
 }
 
 .quote {
