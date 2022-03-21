@@ -1,6 +1,6 @@
 # odin-landing-page
 
-Link - N/A 
+Link - https://bjack0.github.io/odin-landing-page/
 
 Goal
 
@@ -20,7 +20,12 @@ Objectives
 
 Conclusion
 
-TBD
+All objective met
+
+Notes
+
+- Could improve CSS formatting and selectors
+- Could improve knowledge of flexbox
 
 
 Credits
