@@ -22,6 +22,8 @@ Conclusion
 
 All objective met
 
+------------------------------------------------------------------------------------------------------------
+
 Notes
 
 - Could improve CSS formatting and selectors
@@ -35,5 +37,5 @@ https://unsplash.com/@byfoul
 
 Artist social links
 
-https://twitter.com/foulsterr
-https://www.instagram.com/ByFoul/
+- https://twitter.com/foulsterr
+- https://www.instagram.com/ByFoul/
