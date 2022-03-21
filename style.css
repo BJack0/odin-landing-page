@@ -117,10 +117,26 @@ div.below-header-image > img {
     justify-content: center;
 }
 
+div.showcase-title > h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 .showcase-card-container {
     display: flex;
     justify-content: center;
     gap: 8px;
+}
+
+div.showcase-card-container > div > img {
+    border-color: #3882f6;
+    border-radius: 20px;
+}
+
+div.showcase-card-container > div > p {
+    font-size: 18px;
+    text-align: center;
 }
 
 .quote {
